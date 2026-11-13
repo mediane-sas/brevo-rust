@@ -804,3 +804,9 @@ cargo doc --open
 
 contact@brevo.com
 
+
+## License
+
+This crate is licensed under the GNU Affero General Public License v3.0 only (`AGPL-3.0-only`); see [LICENSE](LICENSE).
+
+Version 1.0.0, published on crates.io on 2025-03-03, was released under the MIT license and remains available under it. The AGPL-3.0-only license applies to every later release.
